@@ -1,9 +1,9 @@
-Pénélope Ducharme
-Intérêts:
-	- Lecture
-	- Escalade
-	- TV show
-	- Gastronomie
-	- ...
+Pénélope Ducharme  
+Intérêts:  
+	- Lecture  
+	- Escalade  
+	- TV show  
+	- Gastronomie  
+	- ...  
 
 penelopeducharme@gmail.com
