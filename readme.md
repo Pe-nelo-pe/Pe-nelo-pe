@@ -1,5 +1,5 @@
-Penelope Ducharme
-Interets:
+Pénélope Ducharme
+Intérêts:
 	- Lecture
 	- Escalade
 	- TV show
