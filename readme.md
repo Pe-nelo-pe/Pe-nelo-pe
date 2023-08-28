@@ -6,6 +6,6 @@ Intérêts:
 	- Gastronomie  
 	- ...  
  Perspectives:
- 	- Designer UX
+  - Fullstack developer 
 	
 penelopeducharme@gmail.com
